@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Khadiravana (mostly addressed by the name BVK), and I am currently an Undergraduate Researcher at IIITH's CVIT lab. I work on the problem of OCR for manuscript documents. 
+I am Khadiravana (mostly called name BVK), and I am currently an Undergraduate Researcher at IIITH's CVIT lab. I work on the problem of OCR for manuscript documents. 
 
 <!--
 **khadiravana-belagavi/khadiravana-belagavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
