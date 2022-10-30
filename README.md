@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Khadiravana (frequently called BVK), and I am currently an Undergraduate Researcher at IIITH's CVIT lab. I work on the problem of OCR for manuscript documents. OCR is considered a solved problem - especially for latin languages. For non-latin languages such as most of south Aisian languages the best systems are yet to be developed - and this is so because of multiple reasons - complexity of these languages is far more higher, unavailability of required data etc. I am currently solving the problem of OCR for low resource scenarios.
+I am Khadiravana (frequently called BVK), and I am currently an Undergraduate Researcher at IIITH's CVIT lab. I work on the problem of OCR for manuscript documents. 
+
+OCR is considered a solved problem - especially for latin languages. For non-latin languages such as most of south Aisian languages the best systems are yet to be developed - and this is so because of multiple reasons - complexity of these languages is far more higher, unavailability of required data and many more. I am currently solving the problem of OCR for low resource scenarios.
 
 
 <!--
