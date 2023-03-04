@@ -4,7 +4,7 @@ I am Khadiravana (feel free to call me B.V.K). I am currently an Undergraduate R
 
 OCR is considered a solved problem - especially for latin languages. For non-latin languages such as most of south Aisian languages the best systems are yet to be developed - and this is so because of multiple reasons - complexity of these languages is far more higher, unavailability of required data and many more. I am currently solving the problem of OCR for low resource scenarios.
 
-I use self-supervised learning, deep-clustering, active learning and other powerful strategies to close the gap of current text recognizers.
+I use self-supervised learning, unsupervised learning, few-shot, Generative AI (GANs, Diffusion Models etc.) coupled with techniques such as active learning, curriculum learning etc to close the existing gap of lack of reliable text recognizers mainly for Indian languages. Most of these techniques however can generally be leveraged to other low-resource languages.
 
 
 <!--
