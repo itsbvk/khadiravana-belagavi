@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am B.V.K (my original name being Khadiravana). I am currently an Undergraduate Researcher at IIITH's CVIT lab. I work on the problem of OCR for low-resource documents. 
+I am Khadiravana. (Tip: Feel free to call me BVK if you find it hard to call me Khadiravana.) I am currently an Undergraduate Researcher at IIITH's CVIT lab. I am extremely passionate about solving challenging problems for which solutions are often not in sight. I currently work on the problem of OCR for low-resource documents. 
+
 
 OCR is considered a solved problem - especially for latin languages. For non-latin languages such as most of south Aisian languages the best systems are yet to be developed - and this is so because of multiple reasons - complexity of these languages is far more higher, unavailability of required data and many more. I am currently solving the problem of OCR for low resource scenarios.
 
